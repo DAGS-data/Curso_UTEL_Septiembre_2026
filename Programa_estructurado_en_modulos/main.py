@@ -1,6 +1,6 @@
 
-import conversion as con
-from impuestos import calcular_iva, total_con_iva
+import ecom.conversion as con
+from ecom.impuestos import calcular_iva, total_con_iva
 
 
 print("""
